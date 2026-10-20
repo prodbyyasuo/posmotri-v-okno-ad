@@ -1,1 +1,0 @@
-https://github.com/prodbyyasuo/posmotri-v-okno-ad
