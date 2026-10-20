@@ -287,6 +287,7 @@ ol {
 .content__video-card-description {
   display: -webkit-box;
   overflow: hidden;
+  overflow-wrap: anywhere;
   font-size: 18px;
   line-height: 0.9;
   -webkit-box-orient: vertical;
